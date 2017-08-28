@@ -1,5 +1,7 @@
 # Anontown
 
+[![Join the chat at https://gitter.im/anontown/document](https://badges.gitter.im/anontown/document.svg)](https://gitter.im/anontown/document?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Anontownとは
 2chの様々な問題点を改善した**登録制匿名掲示板**です。  
 
