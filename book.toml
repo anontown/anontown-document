@@ -1,0 +1,5 @@
+[book]
+title="Anontown"
+authors = ["kgtkr"]
+multilingual = false
+src = "src"
