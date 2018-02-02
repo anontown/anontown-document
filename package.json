@@ -1,0 +1,22 @@
+{
+  "name": "@anontown/document",
+  "version": "1.0.0",
+  "description": "Anontown Docs",
+  "main": "index.js",
+  "scripts": {
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anontown/document.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anontown/document/issues"
+  },
+  "homepage": "https://github.com/anontown/document#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
