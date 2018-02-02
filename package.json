@@ -2,9 +2,10 @@
   "name": "@anontown/document",
   "version": "1.0.0",
   "description": "Anontown Docs",
-  "main": "index.js",
+  "main": "README.md",
   "scripts": {
-    "build": "gitbook build"
+    "build": "gitbook build",
+    "start": "gitbook serve"
   },
   "repository": {
     "type": "git",
