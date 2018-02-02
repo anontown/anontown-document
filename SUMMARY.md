@@ -1,6 +1,5 @@
 # Summary
 * [HOME](README.md)
-* [上部メニュー](top-menu.md)
 * [ユーザー](user.md)
 * [トピック](topic.md)
 * [レス](res.md)
