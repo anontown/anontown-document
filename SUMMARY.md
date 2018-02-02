@@ -1,12 +1,10 @@
 # Summary
 * [HOME](README.md)
-* 使い方
-  * [上部メニュー](manual/top-menu.md)
-  * [ユーザー](manual/user.md)
-  * [トピック](manual/topic.md)
-  * [レス](manual/res.md)
-  * [プロフィール](manual/profile.md)
+* [上部メニュー](top-menu.md)
+* [ユーザー](user.md)
+* [トピック](topic.md)
+* [レス](res.md)
+* [プロフィール](profile.md)
+* [荒らし対策](troll.md)
 * [広告について](ad.md)
-* 特徴
-  * [荒らし対策](feature/troll.md)
 * [利用規約](terms.md)

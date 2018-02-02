@@ -1,4 +1,4 @@
-# 使い方/ユーザー
+# ユーザー
 
 ## 登録orログイン
 1. [Anontown](https://anontown.com/)にアクセスします
