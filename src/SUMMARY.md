@@ -6,7 +6,6 @@
 * [プロフィール](profile.md)
 * [荒らし対策](troll.md)
 * [広告について](ad.md)
-* [Beta版](beta.md)
 * [NG機能](ng.md)
 * [API](api.md)
 * [利用規約](terms.md)
